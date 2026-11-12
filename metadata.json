@@ -1,0 +1,6 @@
+{
+  "name": "Hokimiyat Kimda? Hokim, Kengash va Mahalla",
+  "description": "The Economist va The New York Times uslubidagi tahliliy huquqiy nashr va bilimlar xaritasi: Mahalliy davlat hokimiyati va Mahalla tizimi qiyosiy tahlili.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
